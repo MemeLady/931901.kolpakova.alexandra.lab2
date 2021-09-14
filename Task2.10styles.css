@@ -1,0 +1,11 @@
+body{
+	font-family: "Times New Roman"
+}
+#block1{
+	color: black;
+	background-color: aquamarine;
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin: 15px;
+}

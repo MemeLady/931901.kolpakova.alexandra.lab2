@@ -1,0 +1,23 @@
+body{
+	font-family: "Times New Roman";	
+}
+#block1{
+	text-align: left;
+	width: 500px; 
+	max-height: 35%;
+	margin: 20px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#block2{
+	text-align: left;
+	width: 400px; 
+	max-height: 35%;
+	padding: 50px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border: 10px solid;
+	border-color: blue;
+}
