@@ -2,7 +2,7 @@ body, h1{
 	margin: 0px;
 	padding: 0px;
 	line-height: 1.5em;
-	font-family: "Times New Roman";
+	font-family: Times, "Times New Roman", Georgia, serif;
 }
 #header{
 	padding-top: 0px;
