@@ -49,5 +49,6 @@ body{
 	height: 100px;
 	right: 0px;
 	bottom: 0px;
+	z-index: -1;
 }
 
