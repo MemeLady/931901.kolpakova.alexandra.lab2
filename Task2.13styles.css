@@ -10,7 +10,7 @@ ul{
 	margin-top: 5px;
 	padding-top: 5px;
 }
-@media (min-width: 701px){	
+@media (min-width: 901px){	
 	img{
 		float: right;
 		height: 500px;
@@ -25,7 +25,7 @@ ul{
 		float: left;
 		width: 500px;
 	}
-@media (max-width: 700px){
+@media (max-width: 900px){
 	img{
 		float: right;
 		height: 160px;
