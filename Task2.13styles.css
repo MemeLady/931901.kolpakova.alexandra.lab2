@@ -10,33 +10,16 @@ ul{
 	margin-top: 5px;
 	padding-top: 5px;
 }
-@media (min-width: 901px){	
-	img{
+img{
 		float: right;
-		height: 500px;
+		width: 45%;
 	}
 	#rightblock{
 		background-color: darkgray;
-		margin-left: 500px;
-	}	
-}
+		margin-left: 25%;
+	}
 #leftblock{
 		background-color: bisque;
 		float: left;
-		width: 500px;
+		width: 25%;
 	}
-@media (max-width: 900px){
-	img{
-		float: right;
-		height: 160px;
-	}
-	#leftblock{
-		background-color: bisque;
-		width: 120px;
-	}
-	#rightblock{
-		background-color: darkgray;
-		margin-left: 120px;
-		margin-right: 0px;
-	}	
-}
